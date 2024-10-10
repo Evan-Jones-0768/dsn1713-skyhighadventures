@@ -3,3 +3,7 @@
       flex-grow: unset !important;
     }
 }
+
+button{
+    color: #9EC3D3;
+}
